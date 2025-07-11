@@ -8,6 +8,10 @@ import { Layout } from "@/components/Layout/Layout";
 import { Dashboard } from "@/pages/Dashboard";
 import { Income } from "@/pages/Income";
 import { Expenses } from "@/pages/Expenses";
+import { Budgets } from "@/pages/Budgets";
+import { Goals } from "@/pages/Goals";
+import { Analytics } from "@/pages/Analytics";
+import { Accounts } from "@/pages/Accounts";
 import { Settings } from "@/pages/Settings";
 import NotFound from "./pages/NotFound";
 
